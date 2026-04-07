@@ -1,1 +1,1 @@
-{\n  "build": {\n    "env": {\n      "VITE_API_URL": "https://api.example.com"\n    }\n  },\n  "routes": [{\n    "src": "/(.*)",\n    "dest": "/index.html"\n  }]\n}
+{"buildCommand":"npm run build","outputDirectory":"dist","framework":"vite"}
